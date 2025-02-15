@@ -1,5 +1,7 @@
 package Module
 
-func test() {
+import "fmt"
 
+func test() {
+	fmt.Printf("test")
 }
